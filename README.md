@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
+
+
+
+
 [![lewisxhe's GitHub  stats](https://github-readme-stats.vercel.app/api?username=lewisxhe&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisxhe&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
